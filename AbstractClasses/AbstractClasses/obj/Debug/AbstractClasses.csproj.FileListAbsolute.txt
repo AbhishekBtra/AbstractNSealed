@@ -1,0 +1,7 @@
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+P:\JustGitt_repos\AbstractNSealed\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
